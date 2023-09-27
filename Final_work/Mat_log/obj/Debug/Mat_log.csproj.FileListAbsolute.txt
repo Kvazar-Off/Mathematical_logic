@@ -1,0 +1,15 @@
+D:\Mat_log\Mat_log\bin\Debug\Mat_log.exe.config
+D:\Mat_log\Mat_log\bin\Debug\Mat_log.exe
+D:\Mat_log\Mat_log\bin\Debug\Mat_log.pdb
+D:\Mat_log\Mat_log\obj\Debug\Mat_log.csproj.AssemblyReference.cache
+D:\Mat_log\Mat_log\obj\Debug\Mat_log.csproj.CoreCompileInputs.cache
+D:\Mat_log\Mat_log\obj\Debug\Mat_log.exe
+D:\Mat_log\Mat_log\obj\Debug\Mat_log.pdb
+D:\каи\МАТ.ЛОГИКА\build\Mat_log\bin\Debug\Mat_log.exe.config
+D:\каи\МАТ.ЛОГИКА\build\Mat_log\bin\Debug\Mat_log.exe
+D:\каи\МАТ.ЛОГИКА\build\Mat_log\bin\Debug\Mat_log.pdb
+D:\каи\МАТ.ЛОГИКА\build\Mat_log\obj\Debug\Mat_log.csproj.AssemblyReference.cache
+D:\каи\МАТ.ЛОГИКА\build\Mat_log\obj\Debug\Mat_log.csproj.SuggestedBindingRedirects.cache
+D:\каи\МАТ.ЛОГИКА\build\Mat_log\obj\Debug\Mat_log.csproj.CoreCompileInputs.cache
+D:\каи\МАТ.ЛОГИКА\build\Mat_log\obj\Debug\Mat_log.exe
+D:\каи\МАТ.ЛОГИКА\build\Mat_log\obj\Debug\Mat_log.pdb
